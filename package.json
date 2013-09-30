@@ -1,0 +1,13 @@
+{
+    "name": "fusio",
+    "version": "0.0.1",
+    "copyright": "Copyright (c) 2013 Instaclick Inc. All rights reserved.",
+    "author": "Nick Matantsev <nick.matantsev@gmail.com>",
+    "license": "MIT",
+
+    "dependencies": {
+        "policyfile": "*",
+        "socket.io-client": "*",
+        "websocket-driver": "*"
+    }
+}
