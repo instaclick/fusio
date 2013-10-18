@@ -8,7 +8,6 @@
 'use strict';
 
 var Fusio                  = require('./lib/Fusio'),
-
     defaultFlashPolicyPort = 10843; // compiled-in to the Socket.IO client
 
 exports.listen = function (port, flashPolicyPort) {
